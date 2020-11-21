@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import Footer from "./Footer"
-import Header from "./Header"
+import Header from "./header"
 import Sidebar from "./Sidebar"
 import { GlobalStyle } from "./styles/GlobalStyles"
 
