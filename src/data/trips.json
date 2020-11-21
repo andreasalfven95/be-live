@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/hotAirBalloon.jpg",
+    "alt": "Hot Air Balloon Cappadocia, Cappadocia Turkey",
+    "name": "Cappadocia, Turkey",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/newYork.jpg",
+    "alt": "Skyline view, New York",
+    "name": "New York, US",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/jordanLights.jpg",
+    "alt": "Candles in the night at Petra, Jordan",
+    "name": "Petra, Jordan",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/planningTrip.jpg",
+    "alt": "Planning the next trip",
+    "name": "On the Road",
+    "button": "View Destination"
+  }
+]
